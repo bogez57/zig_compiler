@@ -1,0 +1,1 @@
+This is the zig compiler used as a portable way to compile c programs. Current version of compiler is 0.11.0
